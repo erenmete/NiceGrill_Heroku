@@ -27,7 +27,7 @@
       "url": "heroku-community/apt"
     },
     {
-      "url": "git://github.com/heroku/heroku-buildpack-python.git"
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
     }
   ]
 }
