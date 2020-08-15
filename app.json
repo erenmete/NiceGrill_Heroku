@@ -27,9 +27,6 @@
       "url": "heroku/python"
     },
     {
-      "url": "https://github.com/ytdl-org/youtube-dl"
-    },
-    {
       "url": "https://github.com/googleapis/google-api-python-client"
     },
     {
