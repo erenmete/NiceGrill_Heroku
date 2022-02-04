@@ -1,2 +1,2 @@
 telethon
-pip install github.py
+github.py
